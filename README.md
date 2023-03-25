@@ -2,7 +2,7 @@
 # TreeFormer
 
 This is the official implementation of 'TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image'
-<img src="sample_imgs/overview.png"
+<img src="sample_imgs/overview.png">
 
 ## Installation
 
