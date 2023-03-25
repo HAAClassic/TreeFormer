@@ -2,7 +2,7 @@
 # TreeFormer
 
 This is the official implementation of 'TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image'
-
+<img src="sample_imgs/overview.png"
 
 ## Installation
 
@@ -18,7 +18,7 @@ To install the required packages, please run:
 ## Dataset
 Download dataset from [google drive](https://drive.google.com/file/d/1IccQ_VxS6UjpMfXFuo27t8X8cEFN4Rjo/view?usp=sharing)
 ## Evaluation
-Download our trained model on [London](https://github.com/whai362/PVT) dataset.
+Download our trained model on [London]() dataset.
 
 Modify the path to the dataset and model for evaluation in 'test.py'.
 
