@@ -1,7 +1,7 @@
 
 # TreeFormer
 
-This is the code base for IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS 2023) paper 'TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image'
+This is the code base for IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS 2023) paper 'TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image'([https://github.com/whai362/PVT](https://arxiv.org/abs/2307.06118))
 
 <img src="sample_imgs/overview.png">
 
