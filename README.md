@@ -17,7 +17,7 @@ To install the required packages, please run:
 ```
     
 ## Dataset
-Download dataset from [google drive](https://drive.google.com/file/d/1xcjv8967VvvzcDM4aqAi7Corkb11T0i2/view?usp=drive_link).
+Download the dataset from [google drive](https://drive.google.com/file/d/1xcjv8967VvvzcDM4aqAi7Corkb11T0i2/view?usp=drive_link).
 ## Evaluation
 Download our trained model on [London](https://drive.google.com/file/d/1hCbLsXi89coM_NsikvjrfxM5eM5vYyv8/view?usp=sharing) dataset.
 
