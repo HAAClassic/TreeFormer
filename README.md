@@ -19,7 +19,7 @@ To install the required packages, please run:
 ## Dataset
 Download the dataset from [google drive](https://drive.google.com/file/d/1xcjv8967VvvzcDM4aqAi7Corkb11T0i2/view?usp=drive_link).
 ## Evaluation
-Download our trained model on [London](https://drive.google.com/file/d/1hCbLsXi89coM_NsikvjrfxM5eM5vYyv8/view?usp=sharing) dataset.
+Download our trained model on [London](https://drive.google.com/file/d/14uuOF5758sxtM5EgeGcRtSln5lUXAHge/view?usp=sharing) dataset.
 
 Modify the path to the dataset and model for evaluation in 'test.py'.
 
